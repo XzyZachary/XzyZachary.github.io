@@ -66,7 +66,6 @@ export default defineNuxtConfig({
 
   // app config
   app: {
-    baseURL: '/zachary.github.io/',
     // global transition
     pageTransition: { name: 'page', mode: 'out-in' },
     layoutTransition: { name: 'layout', mode: 'out-in' }
