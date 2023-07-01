@@ -44,6 +44,8 @@ jobs:
         with:
           static_site_generator: nuxt
       - name: Install dependencies
+        run: pnpm install
+      - name: Build dependencies
         run: pnpm run build
       - name: Static HTML export with Nuxt
         run: pnpm run generate
