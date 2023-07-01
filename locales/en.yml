@@ -1,0 +1,118 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+common: 
+  1: I'm aliased as
+  2: at work
+  3: I'm a learner and builder.
+  4: I live in
+  5: Xu Hui Shanghai
+  6: I was born in the beautiful city
+  7: Yan Cheng
+  8: My first programming language I learned was
+  9: Java
+  10: I love web development.
+  11: I'm focusing on building ssr and lowcode. 
+  12: I work mostly with JS/TS technologies.
+  13: I'm a cat-person raised an American shorthair cat named
+  14: Bugatti
+  15: I'm a sport-guy. I love
+  16: a dedicated
+  17: Front-End Engineer
+  18: Shanghai
+  19: China
+  20: in
+  21: I'm
+  23: I started learning to code in 2012 and have been hooked ever since.
+  24: I landed my first job as a C# coder in 2016.
+  25: I have a passion for JS/TS web dev and visualization.
+  26: I started this blog to document and share my knowledge & experience.
+  27: What have I built?
+  28: My writings
+  29: More about me and myself
+  30: My career
+  31: Happy reading
+  32: a normal programmer
+  all: All Posts
+  nexta: Next Article
+  preva: Previous Article
+  nextp: Next
+  prevp: Previous
+  of: of
+  back: Back to the blog
+  search: Search articles
+  comment: Load Comments
+  pub: Published
+  github: View on GitHub
+  tags: Tags
+  authors: Authors
+  name: Name
+pages:
+  index:
+    title: Zachary[]awesome[]Blog
+  404:
+    title: page not found
+  blank:
+    nav: blank
+    title: blank page
+    description: this is a blank page
+    just_blank_page_with_title: just blank page with title
+  post:
+    nav: post
+    title: post
+    description: this is a post page
+  test:
+    nav: test
+    title: testing
+    description: this is a test page
+    counter: counter
+    increment: increment
+    decrement: decrement
+    reset: reset
+    identity: identity
+    full_name: fullName
+  getting-started:
+    nav: getting started
+    title: getting started
+    description: this is a getting started page
+  resume:
+    nav: resume
+    title: resume
+    description: this is my resume
+    sections:
+      validate_username:
+        title: validate github profile
+        description: type your github username and click the button to validate.
+        footer: Learn more about
+        footer_button: validate
+        footer_link: github users api
+      bot_id:
+        title: bot id
+        description: This is your bot ID.
+        footer: Used when interacting with the bot.
+      protection_spam:
+        title: spam protection
+        description: toggle enable to remove the red border
+        footer: if enable we will secure your comments from spam
+      advanced_enable_advanced:
+        title: enable advanced settings
+        description: you can enable advanced settings to change the settings
+      advanced_dir_listing:
+        title: directory listing
+        description: if no index file is present within a directory the directory contents will be displayed.
+  dashboard:
+    nav: dashboard
+    title: dashboard
+    index:
+      nav: home
+      title: home
+banners:
+  welcome: hello welcome to %{app_name}!
+others:
+  learn_more: learn more
+  copy: copy
+  enabled: enabled
+  disabled: disabled
